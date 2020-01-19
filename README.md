@@ -1,2 +1,2 @@
-# EDA-on-Housing-dataset
-Exploratory Data Analysis on Housing Dataset
+# EDA-on-Countries-dataset
+Exploratory Data Analysis on Countries Dataset
